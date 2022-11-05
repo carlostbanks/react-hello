@@ -1,4 +1,24 @@
 
+.container {
+    width: 100%;
+    height: 150px;
+    background-color: black;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.counter p {
+    border: 1px gray solid;
+    margin: 10px;
+    background-color: darkgray;
+    width: 70px;
+    font-size: 72px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 5px;
+}
+
 /* 
 
     You can write your own styles here...
